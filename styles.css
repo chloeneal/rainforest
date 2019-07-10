@@ -1,0 +1,71 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+body {
+  background-color: #A9BD6C;
+}
+
+
+
+.rain {
+  display: flex;
+  margin: 10px;
+  padding: 15px;
+  border: 1px solid;
+  flex-direction: row;
+  justify-content: center;
+  align-items: flex-start;
+}
+
+h1 {
+  background-color: #A9BD6C;
+  text-align: center;
+  link href: font-family: 'Libre Baskerville', serif;
+  text-color: white;
+  color: #3A3E2F;
+  border: 3px solid;
+  margin: 1px;
+  padding: 8px;
+}
+
+.trees {
+  height: 200px;
+  width: 200px;
+  flex-direction: row;
+  width: 200px;
+  height: 200px;
+  border: 1px: solid;
+  margin-right: 15px;
+}
+.creek {
+  height: 200px;
+  width: 200px;
+  border: 1px: solid;
+  margin-right: 15px;
+}
+.water {
+  display: flex;
+  margin: 10px;
+  padding: 15px;
+  border: 1px solid;
+  flex-direction: row;
+  justify-content: center;
+  align-items: flex-start;
+}
+.green {
+  display: flex;
+  margin: 10px;
+  padding: 15px;
+  border: 1px solid;
+  flex-direction: row;
+  justify-content: center;
+  align-items: flex-start;
+}
+.agua {
+  height: 200px;
+  width: 200px;
+  border: 1px: solid;
+  margin-right: 15px;
+}
